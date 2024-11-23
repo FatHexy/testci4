@@ -16,7 +16,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    public string $baseURL = 'https://asjyb.vercel.app/';
+    public string $baseURL = 'https://fathexy.github.io/testci4/';
 
     /**
      * Allowed Hostnames in the Site URL other than the hostname in the baseURL.
